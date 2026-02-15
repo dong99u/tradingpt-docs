@@ -1342,7 +1342,7 @@ WARN [handleOptimisticLockException] Optimistic lock conflict detected.
 ### 8.1 관련 파일 위치
 
 **핵심 예외 처리 파일:**
-- `src/main/java/com/tradingpt/tpt_api/global/exception/`
+- `src/main/java/com/example/tradingpt/global/exception/`
   - `GlobalExceptionHandler.java` (305 lines) - 13개 예외 타입 처리
   - `BaseException.java` (32 lines) - 모든 커스텀 예외의 부모
   - `code/BaseCodeInterface.java` (9 lines) - 에러 코드 인터페이스
@@ -1350,21 +1350,21 @@ WARN [handleOptimisticLockException] Optimistic lock conflict detected.
   - `code/GlobalErrorStatus.java` (73 lines) - 전역 에러 코드 (15개)
 
 **Spring Security 예외 처리 파일:**
-- `src/main/java/com/tradingpt/tpt_api/global/config/`
+- `src/main/java/com/example/tradingpt/global/config/`
   - `MethodSecurityConfig.java` - @PreAuthorize 등 메서드 보안 활성화
-- `src/main/java/com/tradingpt/tpt_api/global/security/handler/`
+- `src/main/java/com/example/tradingpt/global/security/handler/`
   - `JsonAuthenticationEntryPoint.java` (65 lines) - 401 처리
   - `JsonAccessDeniedHandler.java` (101 lines) - 403 처리 (CSRF 포함)
-- `src/main/java/com/tradingpt/tpt_api/domain/auth/exception/code/`
+- `src/main/java/com/example/tradingpt/domain/auth/exception/code/`
   - `AuthErrorStatus.java` (122 lines) - 인증/인가 에러 코드 (60+ 개)
 
 **도메인별 예외 파일 (예시):**
-- `src/main/java/com/tradingpt/tpt_api/domain/memo/exception/`
+- `src/main/java/com/example/tradingpt/domain/memo/exception/`
   - `MemoException.java` (14 lines)
   - `MemoErrorStatus.java` (47 lines) - 3개 에러 코드
 
 **응답 형식:**
-- `src/main/java/com/tradingpt/tpt_api/global/common/`
+- `src/main/java/com/example/tradingpt/global/common/`
   - `BaseResponse.java` (57 lines) - 표준화된 API 응답 형식
 
 ### 8.2 관련 문서

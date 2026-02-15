@@ -393,8 +393,8 @@ async function downloadFeedbackAttachment(feedbackId) {
 ## 관련 문서
 
 - [AWS S3 Presigned URL 공식 문서](https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-presigned-url.html)
-- [S3FileService 구현](/src/main/java/com/tradingpt/tpt_api/global/infrastructure/s3/service/S3FileServiceImpl.java)
-- [FeedbackRequestAttachment 엔티티](/src/main/java/com/tradingpt/tpt_api/domain/feedbackrequest/entity/FeedbackRequestAttachment.java)
+- [S3FileService 구현](/src/main/java/com/example/tradingpt/global/infrastructure/s3/service/S3FileServiceImpl.java)
+- [FeedbackRequestAttachment 엔티티](/src/main/java/com/example/tradingpt/domain/feedbackrequest/entity/FeedbackRequestAttachment.java)
 
 ---
 

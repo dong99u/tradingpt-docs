@@ -577,10 +577,10 @@ Customer/PaymentMethod도 개별 로딩되어 N개의 구독 처리 시 최대 3
 
 ## 관련 문서
 
-- [RecurringPaymentService.java](../../src/main/java/com/tradingpt/tpt_api/domain/subscription/service/RecurringPaymentService.java)
-- [SubscriptionRepository.java](../../src/main/java/com/tradingpt/tpt_api/domain/subscription/repository/SubscriptionRepository.java)
-- [MembershipExpirationScheduler.java](../../src/main/java/com/tradingpt/tpt_api/domain/user/scheduler/MembershipExpirationScheduler.java)
-- [CourseStatusScheduler.java](../../src/main/java/com/tradingpt/tpt_api/domain/lecture/scheduler/CourseStatusScheduler.java)
+- RecurringPaymentService.java
+- SubscriptionRepository.java
+- MembershipExpirationScheduler.java
+- CourseStatusScheduler.java
 
 ---
 

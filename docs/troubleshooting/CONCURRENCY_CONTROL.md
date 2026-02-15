@@ -743,8 +743,8 @@ public class FeedbackRequestCommandServiceImpl {
 
 - [피드백 토큰 보상 시스템 설계 문서](./FEEDBACK_TOKEN_REWARD_SYSTEM.md)
 - [JPA Best Practices - Dirty Checking 가이드](../DDD_GUIDE.md)
-- [Customer Entity 명세](../src/main/java/com/tradingpt/tpt_api/domain/user/entity/Customer.java)
-- [GlobalExceptionHandler 명세](../src/main/java/com/tradingpt/tpt_api/global/exception/GlobalExceptionHandler.java)
+- Customer Entity 명세
+- GlobalExceptionHandler 명세
 
 ---
 
@@ -930,8 +930,8 @@ void testOptimisticLockingWithConcurrentRequests() throws InterruptedException {
 ## 📎 참고 자료 (References)
 
 ### 관련 문서
-- [Customer Entity](../src/main/java/com/tradingpt/tpt_api/domain/user/entity/Customer.java)
-- [GlobalExceptionHandler](../src/main/java/com/tradingpt/tpt_api/global/exception/GlobalExceptionHandler.java)
+- Customer Entity
+- GlobalExceptionHandler
 - [DDD Guide - JPA Best Practices](../DDD_GUIDE.md)
 
 ### 외부 참조

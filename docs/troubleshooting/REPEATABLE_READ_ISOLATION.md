@@ -609,10 +609,10 @@ public SubscriptionCommandServiceImpl(
 ## 🔗 관련 문서
 
 ### 수정된 파일
-- [SubscriptionCommandService.java](../../src/main/java/com/tradingpt/tpt_api/domain/subscription/service/command/SubscriptionCommandService.java) - 인터페이스 시그니처 변경
-- [SubscriptionCommandServiceImpl.java](../../src/main/java/com/tradingpt/tpt_api/domain/subscription/service/command/SubscriptionCommandServiceImpl.java) - 구현체 수정
-- [SubscriptionErrorStatus.java](../../src/main/java/com/tradingpt/tpt_api/domain/subscription/exception/SubscriptionErrorStatus.java) - 에러 코드 추가
-- [PaymentMethodCommandServiceImpl.java](../../src/main/java/com/tradingpt/tpt_api/domain/paymentmethod/service/command/PaymentMethodCommandServiceImpl.java) - 호출부 수정
+- SubscriptionCommandService.java - 인터페이스 시그니처 변경
+- SubscriptionCommandServiceImpl.java - 구현체 수정
+- SubscriptionErrorStatus.java - 에러 코드 추가
+- PaymentMethodCommandServiceImpl.java - 호출부 수정
 
 ### 관련 기술 문서
 - [DDD_GUIDE.md](../DDD_GUIDE.md) - DDD 원칙 및 Entity 설계 가이드

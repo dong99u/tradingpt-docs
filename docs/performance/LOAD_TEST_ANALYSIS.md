@@ -725,8 +725,8 @@ T3 인스턴스는 버스트 기반 CPU 크레딧 시스템을 사용하여, BCr
 ## 관련 문서
 
 - [k6 테스트 스크립트](k6-tests/production-load-test.js)
-- [Spring Security 설정](../src/main/java/com/tradingpt/tpt_api/global/security/)
-- [HikariCP 설정](../src/main/resources/application.yml)
+- Spring Security 설정
+- HikariCP 설정
 
 ---
 
@@ -1267,8 +1267,8 @@ ramping_users ✓ [======================================] 0000/1000 VUs  20m0s
 ## 관련 문서
 
 - [k6 테스트 스크립트](k6-tests/production-load-test.js)
-- [Spring Security 설정](../src/main/java/com/tradingpt/tpt_api/global/security/)
-- [HikariCP 설정](../src/main/resources/application.yml)
+- Spring Security 설정
+- HikariCP 설정
 
 ---
 

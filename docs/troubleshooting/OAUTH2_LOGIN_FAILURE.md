@@ -484,10 +484,10 @@ public void saveAuthorizationRequest(OAuth2AuthorizationRequest authorizationReq
 
 ## 🔗 관련 문서
 
-- [SecurityConfig.java](../src/main/java/com/tradingpt/tpt_api/global/config/SecurityConfig.java)
-- [HttpCookieOAuth2AuthorizationRequestRepository.java](../src/main/java/com/tradingpt/tpt_api/domain/auth/repository/HttpCookieOAuth2AuthorizationRequestRepository.java)
-- [CustomOAuth2UserService.java](../src/main/java/com/tradingpt/tpt_api/domain/auth/security/CustomOAuth2UserService.java)
-- [CustomFailureHandler.java](../src/main/java/com/tradingpt/tpt_api/domain/auth/handler/CustomFailureHandler.java)
+- SecurityConfig.java
+- HttpCookieOAuth2AuthorizationRequestRepository.java
+- CustomOAuth2UserService.java
+- CustomFailureHandler.java
 
 ---
 
@@ -663,9 +663,9 @@ public void saveAuthorizationRequest(OAuth2AuthorizationRequest authorizationReq
 ## 📎 참고 자료 (References)
 
 ### 관련 문서
-- [SecurityConfig.java](../src/main/java/com/tradingpt/tpt_api/global/config/SecurityConfig.java)
-- [HttpCookieOAuth2AuthorizationRequestRepository.java](../src/main/java/com/tradingpt/tpt_api/domain/auth/repository/HttpCookieOAuth2AuthorizationRequestRepository.java)
-- [CustomOAuth2UserService.java](../src/main/java/com/tradingpt/tpt_api/domain/auth/security/CustomOAuth2UserService.java)
+- SecurityConfig.java
+- HttpCookieOAuth2AuthorizationRequestRepository.java
+- CustomOAuth2UserService.java
 
 ### 외부 참조
 - [Spring Security OAuth2 Reference](https://docs.spring.io/spring-security/reference/servlet/oauth2/index.html)

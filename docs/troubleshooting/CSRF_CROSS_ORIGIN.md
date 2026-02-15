@@ -470,11 +470,11 @@ public class SecurityConfig {
 
 ## 🔗 관련 문서
 
-- [HeaderAndCookieCsrfTokenRepository.java](../src/main/java/com/tradingpt/tpt_api/global/security/csrf/HeaderAndCookieCsrfTokenRepository.java) (
+- HeaderAndCookieCsrfTokenRepository.java (
   75 lines)
-- [CsrfTokenResponseHeaderBindingFilter.java](../src/main/java/com/tradingpt/tpt_api/domain/auth/filter/CsrfTokenResponseHeaderBindingFilter.java) (
+- CsrfTokenResponseHeaderBindingFilter.java (
   41 lines)
-- [SecurityConfig.java](../src/main/java/com/tradingpt/tpt_api/global/config/SecurityConfig.java) (CSRF 설정 부분)
+- SecurityConfig.java (CSRF 설정 부분)
 - [FEATURE_GLOBAL_ERROR_HANDLER.md](./FEATURE_GLOBAL_ERROR_HANDLER.md) - Spring Security 예외 처리 아키텍처
 
 ---

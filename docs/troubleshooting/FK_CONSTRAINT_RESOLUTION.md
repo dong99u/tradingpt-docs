@@ -525,10 +525,10 @@ public void deleteLectureAttachments(Long lectureId) {
 
 ## 관련 문서
 
-- [Entity: LectureAttachmentDownloadHistory.java](../../src/main/java/com/tradingpt/tpt_api/domain/lecture/entity/LectureAttachmentDownloadHistory.java)
-- [Service: LectureQueryServiceImpl.java](../../src/main/java/com/tradingpt/tpt_api/domain/lecture/service/query/LectureQueryServiceImpl.java)
-- [Service: AdminLectureCommandServiceImpl.java](../../src/main/java/com/tradingpt/tpt_api/domain/lecture/service/command/AdminLectureCommandServiceImpl.java)
-- [Migration: V002__add_download_history_snapshot_columns.sql](../../src/main/resources/db/migration/V002__add_download_history_snapshot_columns.sql)
+- Entity: LectureAttachmentDownloadHistory.java
+- Service: LectureQueryServiceImpl.java
+- Service: AdminLectureCommandServiceImpl.java
+- Migration: V002__add_download_history_snapshot_columns.sql
 
 ---
 
