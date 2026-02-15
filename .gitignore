@@ -1,0 +1,10 @@
+.DS_Store
+*.class
+*.jar
+.idea/
+.env
+*.iml
+build/
+out/
+.gradle/
+node_modules/
