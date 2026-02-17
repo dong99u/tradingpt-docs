@@ -48,7 +48,7 @@
 ### 프로젝트 소개
 
 20개 도메인을 가진 트레이딩 교육 플랫폼 API.
-Spring Boot 3.5.5 / Java 17 / JPA + QueryDSL / Redis Session / AWS Multi-AZ.
+Spring Boot 3.3.5 / Java 17 / JPA + QueryDSL / Redis Session / AWS Multi-AZ.
 
 ### 주요 기술 문서
 
