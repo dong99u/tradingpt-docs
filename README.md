@@ -2,6 +2,7 @@
 
 > Technical documentation & code patterns for a Spring Boot trading platform
 > built with DDD, CQRS, and production-grade AWS infrastructure.
+> Live since Dec 2025 — 642+ users, 5,300+ feedback requests processed.
 
 > **Note**: This is a read-only technical showcase. The source repository is private.
 
@@ -10,7 +11,7 @@
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5-brightgreen?style=flat-square&logo=springboot)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-brightgreen?style=flat-square&logo=springboot)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6-brightgreen?style=flat-square&logo=springsecurity)
 ![JPA/Hibernate](https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat-square&logo=hibernate)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-5.0-blue?style=flat-square)
@@ -47,7 +48,7 @@
 
 ### 프로젝트 소개
 
-20개 도메인을 가진 트레이딩 교육 플랫폼 API.
+20개 도메인을 가진 트레이딩 교육 플랫폼 API. 2025.12 서비스 오픈 이후 가입자 642명+, 피드백 요청 5,300건+ 처리 중.
 Spring Boot 3.3.5 / Java 17 / JPA + QueryDSL / Redis Session / AWS Multi-AZ.
 
 ### 주요 기술 문서
